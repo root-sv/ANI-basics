@@ -1,0 +1,2 @@
+# ANI-basics
+weak AI
